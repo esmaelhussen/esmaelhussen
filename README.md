@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on website design
 - 📫 How to reach me esmhsnabcd@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 esmaelhussen/esmaelhussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
