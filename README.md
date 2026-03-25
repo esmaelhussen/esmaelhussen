@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esmael Hussen<a href="https://github.com/esmaelhussen" target="blank"></a></h1>
 
-## I'm a Developer and learner
+## I'm a Full stack Developer and learner
 
 - 🌱 I’m currently learning backend development ...
 - 🤝 I’m available for freelancing.
