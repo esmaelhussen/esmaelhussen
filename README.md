@@ -6,7 +6,7 @@
 - 🤝 I’m available for freelancing.
 - 👯 I’m looking to collaborate with other software developers
 - :nerd_face: Always `learning new things`
-- Check out my <a rel="noopener" href="https://drive.google.com/file/d/17P0ph5dF3MXVlWm3uWd2Ig1z5-7xK1yJ/view?usp=drivesdk" target="blank">Resume</a>
+- Check out my <a rel="noopener" href="https://drive.google.com/file/d/1uqpukOJiobeHeV7wRgFInZYi-iQ21VZS/view?usp=drivesdk" target="blank">Resume</a>
 
 ![line](./img/line.gif)
 
