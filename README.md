@@ -103,25 +103,30 @@
 
 ![line](./img/line.gif)
 
+```html
+<!-- GitHub Statistics -->
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=esmaelhussen&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
-    height="180"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/esmaelhussen">
+    <img
+      src="https://streak-stats.demolab.com?user=esmaelhussen&theme=github-dark-blue&hide_border=true&border_radius=10"
+      alt="Esmael's GitHub Streak"
+    />
+  </a>
 </p>
 
+<br>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=esmaelhussen&theme=github-dark-blue&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/esmaelhussen">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=esmaelhussen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
+```
