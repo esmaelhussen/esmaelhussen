@@ -10,12 +10,20 @@
 
 ![line](./img/line.gif)
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<br />
 <p align="center">
-<a href="mailto:esmaelhussenabdu@gmail.com" target="_blank"><img  alt="Email" width="26px" src="./img/gmail.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/esmaelhussen" target="_blank"><img  alt="LInkedin" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/esmaelhussenA" target="_blank"><img  alt="Twitter" width="26px" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
+  <a href="mailto:esmaelhussenabdu@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="26" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/esmaelhussen">
+    <img src="https://cdn.simpleicons.org/linkedin" width="26" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://twitter.com/esmaelhussenA">
+    <img src="https://cdn.simpleicons.org/x" width="26" alt="X"/>
+  </a>
 </p>
 
 ![line](./img/line.gif)
