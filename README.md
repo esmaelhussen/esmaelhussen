@@ -103,11 +103,27 @@
 
 ![line](./img/line.gif)
 
-<h3 align="center">MY GITHUB STATISTICS &nbsp; <img src="./img/statistics.png" height="30" align="justify"/></h3>
+<h3 align="center">
+  MY GITHUB STATISTICS &nbsp;
+  <img src="./img/statistics.png" height="30" />
+</h3>
+
 <br />
 
-[![esmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaelhussen&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=esmaelhussen&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22"
+    alt="Esmael's GitHub stats"
+  />
 
-[twitter]: https://twitter.com/esmaelhussenA
-[linkedin]: https://linkedin.com/in/esmaelhussen
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22"
+ alt="Top Languages"
+/>
+
+</p>
+
+[![esmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaelhussen\&count_private=true\&hide_title=true\&show_icons=true\&hide_border=true\&theme=nightowl\&bg_color=161B22)](https://github.com/esmaelhussen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen\&card_width=250\&langs_count=6\&hide_border=true\&layout=compact\&theme=nightowl\&bg_color=161B22)](https://github.com/esmaelhussen)
+
