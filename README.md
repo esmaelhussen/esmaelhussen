@@ -103,24 +103,20 @@
 
 ![line](./img/line.gif)
 
-<h3 align="center">
-  MY GITHUB STATISTICS &nbsp;
-  <img src="./img/statistics.png" height="30" />
-</h3>
-
-<br />
+<h3 align="center">MY GITHUB STATISTICS</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=esmaelhussen&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22"
-    alt="Esmael's GitHub stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaelhussen&theme=github_dark" />
+</p>
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22"
- alt="Top Languages"
-/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmaelhussen&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmaelhussen&theme=github_dark" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmaelhussen&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmaelhussen&theme=github_dark&utcOffset=3" />
 </p>
 
 [![esmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaelhussen\&count_private=true\&hide_title=true\&show_icons=true\&hide_border=true\&theme=nightowl\&bg_color=161B22)](https://github.com/esmaelhussen)
