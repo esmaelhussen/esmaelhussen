@@ -90,7 +90,7 @@
     <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   </a>
 
-<br><br>
+<br>
 
   <a href="https://www.docker.com/" target="_blank">
     <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
