@@ -23,8 +23,12 @@
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
 
-  <a href="https://t.me/esmaelehussen">
+  <a href="https://t.me/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://esmaelhussen.online">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
