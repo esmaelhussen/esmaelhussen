@@ -103,23 +103,39 @@
 
 ![line](./img/line.gif)
 
-<h3 align="center">MY GITHUB STATISTICS</h3>
+<!-- GitHub Statistics -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaelhussen&theme=github_dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=esmaelhussen&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="180"
+    alt="Esmael's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmaelhussen&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmaelhussen&theme=github_dark" />
+  <img
+    src="https://streak-stats.demolab.com?user=esmaelhussen&theme=github-dark-blue&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
+
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmaelhussen&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmaelhussen&theme=github_dark&utcOffset=3" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=esmaelhussen&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
-
-[![esmael's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmaelhussen\&count_private=true\&hide_title=true\&show_icons=true\&hide_border=true\&theme=nightowl\&bg_color=161B22)](https://github.com/esmaelhussen)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen\&card_width=250\&langs_count=6\&hide_border=true\&layout=compact\&theme=nightowl\&bg_color=161B22)](https://github.com/esmaelhussen)
 
