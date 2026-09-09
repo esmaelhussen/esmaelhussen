@@ -11,15 +11,18 @@
 ![line](./img/line.gif)
 
 <p align="center">
-  <a href="mailto:esmaelhussenabdu@gmail.com">
+  <a href="mailto:esmaelehussen@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="26" alt="Email"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/esmaelhussen">
-    <img src="https://cdn.simpleicons.org/linkedin" width="26" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+ <a href="https://linkedin.com/in/esmaelhussen" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+    width="26"
+    alt="LinkedIn"
+  />
+</a>
 
   <a href="https://twitter.com/esmaelhussenA">
     <img src="https://cdn.simpleicons.org/x" width="26" alt="X"/>
