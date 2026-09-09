@@ -103,19 +103,49 @@
 
 ![line](./img/line.gif)
 
-<h3 align="center">MY GITHUB STATISTICS</h3>
+```html
+<h3 align="center">📊 MY GITHUB STATISTICS</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaelhussen&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaelhussen&theme=green"
+    width="95%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmaelhussen&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmaelhussen&theme=github_dark" />
-</p>
+<br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmaelhussen&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmaelhussen&theme=github_dark&utcOffset=3" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmaelhussen&theme=green"
+    width="47%"
+    alt="GitHub Statistics"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmaelhussen&theme=green"
+    width="47%"
+    alt="Repositories Per Language"
+  />
 </p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmaelhussen&theme=green"
+    width="47%"
+    alt="Most Commit Language"
+  />
+  &nbsp;
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmaelhussen&theme=green&utcOffset=3"
+    width="47%"
+    alt="Productive Time"
+  />
+</p>
+```
 
