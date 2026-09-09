@@ -103,14 +103,13 @@
 
 ![line](./img/line.gif)
 
-<!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=esmaelhussen&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
     height="180"
-    alt="Esmael's GitHub Stats"
+    alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
@@ -126,16 +125,3 @@
     alt="GitHub Streak"
   />
 </p>
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=esmaelhussen&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelhussen\&card_width=250\&langs_count=6\&hide_border=true\&layout=compact\&theme=nightowl\&bg_color=161B22)](https://github.com/esmaelhussen)
-
