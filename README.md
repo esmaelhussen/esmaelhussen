@@ -38,14 +38,59 @@
 <br />
 
 <p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
-  <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://sass-lang.com/" target="_blank"></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
-  <a href="https://git.com/" target="_blank"><img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://nestjs.com/" target="_blank">
+    <img alt="NestJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  </a>
 </p>
+
 
 <br />
 <br />
