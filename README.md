@@ -22,6 +22,10 @@
   <a href="https://twitter.com/esmaelhussenA">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
+
+  <a href="https://t.me/esmaelehussen">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ![line](./img/line.gif)
