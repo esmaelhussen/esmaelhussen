@@ -104,18 +104,29 @@
 ![line](./img/line.gif)
 
 ```html
-<h3 align="center">📊 MY GITHUB STATISTICS</h3>
+<!-- GitHub Statistics -->
 
-<br>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaelhussen&theme=green"
-    width="95%"
-    alt="GitHub Profile Details"
-  />
+  <a href="https://github.com/esmaelhussen">
+    <img
+      src="https://streak-stats.demolab.com?user=esmaelhussen&theme=github-dark-blue&hide_border=true&border_radius=10"
+      alt="Esmael's GitHub Streak"
+    />
+  </a>
 </p>
 
 <br>
 
-<h3 align="center">MY GITHUB STATISTICS</h3> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaelhussen&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmaelhussen&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmaelhussen&theme=github_dark" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmaelhussen&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmaelhussen&theme=github_dark&utcOffset=3" /> </p>
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <a href="https://github.com/esmaelhussen">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=esmaelhussen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+```
